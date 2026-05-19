@@ -5,7 +5,9 @@
 - Haniel Sousa  
 - Matheus Pereira  
 - Kaique de Souza  
-- Gabriel Henrique  
+- Gabriel Henrique
+- Rafaela Portugal
+- Tais Milena 
 
 ---
 
