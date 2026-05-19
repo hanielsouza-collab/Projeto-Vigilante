@@ -1,6 +1,6 @@
-# 🔐 Projeto Vigilante
+# Projeto Vigilante
 
-## 👥 Integrantes
+## Integrantes
 
 - Haniel Sousa  
 - Matheus Pereira  
@@ -11,7 +11,7 @@
 
 ---
 
-## 📌 Descrição do Sistema
+## Descrição do Sistema
 
 O **Vigilante** é um sistema web desenvolvido como evolução do projeto da Mostra STEAM.
 
@@ -21,7 +21,7 @@ A aplicação foi construída utilizando Front-End e Back-End simples, com integ
 
 ---
 
-## 🎯 Objetivo do Projeto
+## Objetivo do Projeto
 
 O projeto tem como objetivo aplicar conhecimentos de desenvolvimento web criando um sistema funcional com:
 
@@ -34,7 +34,7 @@ O projeto tem como objetivo aplicar conhecimentos de desenvolvimento web criando
 
 ---
 
-## 🛠 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - HTML5  
 - CSS3  
@@ -48,7 +48,7 @@ O projeto tem como objetivo aplicar conhecimentos de desenvolvimento web criando
 
 ---
 
-## 📁 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```txt
 projeto-vigilante/
