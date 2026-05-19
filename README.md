@@ -7,7 +7,7 @@
 - Kaique de Souza  
 - Gabriel Henrique
 - Rafaela Portugal
-- Tais Milena 
+- Tais Millena 
 
 ---
 
